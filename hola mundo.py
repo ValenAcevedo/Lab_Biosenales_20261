@@ -10,3 +10,9 @@ print("Hola mundogit")
 # Subir los cambios al repositorio remoto: git push origin main
 
 # Bajar los cambios del repositorio: git pull
+
+# Cada que se haga un cambio de debe reptir los siguientes pasos:
+    # 1. Guardar los cambios del archivo 
+    # 2. git add .
+    # 3. git commit -m "nombre del archivo"
+    # 4. git push 
