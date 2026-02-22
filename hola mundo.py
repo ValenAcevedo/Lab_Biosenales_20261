@@ -1,6 +1,6 @@
 print("Hola mundogit")
 
-# Clonar el repositorio en el PC: git clone (+ link del repositorio)
+# Clonar el repositorio en el PC: git clone https://github.com/ValenAcevedo/Lab_Biosenales_20261
 
 # lo que está en la carpeta agregarlo al repositorio (todo lo que está en el entorno de trabajo, téngalo en cuenta): git add .
 
